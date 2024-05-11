@@ -1,20 +1,17 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tuantruong-03.tuantruong-3" />
-<h1>Hi there 👋 </h1>
-I'm Tuan, and I'm a student of VNU-HCM. Currently, I'm majoring AT Information Tenchnology Faculty of HCMUS. With my knowledge of backend development, I am deeply passionate about solving problems and developing more applications for useful purposes. Besides that, I am also willing to learn new technologies to enhance my programming skills.
-<i class="fa-solid fa-pen"></i>
+  <h1 align="center" >Hi there 👋 </h1>
+    <p style="font-size: larger;">
+        I'm Tuan, and I'm a student of VNU-HCM. Currently, I'm majoring AT Information Tenchnology Faculty of HCMUS.
+        With my
+        knowledge of backend development, I am deeply passionate about solving problems and developing more applications
+        for
+        useful purposes. Besides that, I am also willing to learn new technologies to enhance my programming skills.
+    </p>
+    <h2 style="text-decoration: none;">- 🌱 I'm currently learning Web Development</h2>
+    <h2 style="text-decoration: none;">- 💻 I'm looking for internship in Sofware Engineer Company</h2>
+    <h2 style="text-decoration: none;">- 🤔 I'm looking for help with ...</h2>
+    <h2 style="text-decoration: none;">- 📫 How to reach me: ...</h2>
 
-<!--
-**tuantruong-03/tuantruong-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+   <div class="">
+        <h2>Skills and experience</h2>
+        [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+    </div>
