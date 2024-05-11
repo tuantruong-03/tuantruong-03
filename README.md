@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 </h1>
     <p style="font-size: larger;">
-       I'm Tuan, a student at VNU-HCM, majoring in Information Technology at HCMUS. With myknowledge of web development, I am deeply passionate about solving problems and developing more applications for useful purposes. Besides that, I am also willing to learn new technologies to enhance my programming skills.
+       I'm Tuan, a student of VNU-HCM, majoring in Information Technology of HCMUS. With myknowledge of web development, I am deeply passionate about solving problems and developing more applications for useful purposes. Besides that, I am also willing to learn new technologies to enhance my programming skills.
     </p>
     <ul style="list-style: none;">
         <li>
