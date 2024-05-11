@@ -1,6 +1,9 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tuantruong-03.tuantruong-3" />
+<h1>Hi there 👋 </h1>
+I'm Tuan, and I'm a student of VNU-HCM. Currently, I'm majoring AT Information Tenchnology Faculty of HCMUS. With my knowledge of backend development, I am deeply passionate about solving problems and developing more applications for useful purposes. Besides that, I am also willing to learn new technologies to enhance my programming skills.
+<i class="fa-solid fa-pen"></i>
 
-
+<!--
 **tuantruong-03/tuantruong-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
