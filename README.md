@@ -12,17 +12,16 @@
 - 🏢 **Seeking**: Internship in Software Engineering
 
 ---
-
-### 📫 Contact me
-
-<p>
-    <a href="https://www.linkedin.com/in/tuan-truong-anh">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.facebook.com/TuanTruong.03/">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-</p>
+### 📫 Contact me 
+<div>
+                    <a style="text-decoration: none !important; " href="https://www.linkedin.com/in/tuan-truong-anh">
+                        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+                    </a>
+                    <a style="text-decoration: none !important" href="https://www.facebook.com/TuanTruong.03/">
+                        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+                    </a>
+                </div>
+</div>
 
 ---
 
