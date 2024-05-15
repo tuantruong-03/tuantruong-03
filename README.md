@@ -38,7 +38,7 @@
         <h3>🖋️ Data Structure and Algorithms</h3>
     </li>
     <li>
-        <h3>🔎 SQL: MySQL, SQLServer, MongoDB,...</h3>
+        <h3>🔎 Database</h3>
     </li>      
      <li>
         <h3>🛜 Network</h3>
