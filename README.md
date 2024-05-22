@@ -45,7 +45,8 @@
     </li>
 </ul>
     </div>
-
+    
+[![LeetCode Stats](https://leetcard.jacoblin.cool/TusanNah?extension=activity)]
 
 
 
