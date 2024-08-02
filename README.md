@@ -39,7 +39,11 @@
     </li>
     <li>
         <h3>🔎 Database</h3>
+    </li>
+     <li>
+        <h3>🛜 Network</h3>
     </li>      
+            
 </ul>
     </div>
     
